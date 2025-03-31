@@ -11,8 +11,8 @@ main:
   - name: Blog
     url: blog/
     weight: 30
-  - name: Showcase
-    url: showcase/
+  - name: foto
+    url: foto/
     weight: 40
   - name: Community
     url: community/
