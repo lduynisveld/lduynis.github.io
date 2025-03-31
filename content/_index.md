@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2025-03-31
 type: landing
 
 design:
@@ -10,10 +10,10 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
+      title: Welkom op mijn webpagina
       text: The easy, no-code technical documentation solution your users will love 🎉
       primary_action:
-        text: Get Started
+        text: Hier Starten
         url: https://hugoblox.com/templates/details/docs/
         icon: rocket-launch
       secondary_action:
