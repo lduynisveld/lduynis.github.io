@@ -61,8 +61,8 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
-      text: Collaborate, publish, and maintain technical knowledge with an all-in-one documentation site. Used by 100,000+ startups, enterprises, and researchers.
+      title: Kenmerken
+      text: Samenwerken, publiceren en technische kennis delen , documentensite, 
       items:
         - name: Optimized SEO
           icon: magnifying-glass
