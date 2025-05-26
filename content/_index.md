@@ -11,10 +11,10 @@ sections:
   - block: hero
     content:
       title: Welkom op mijn webpagina
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      text: The easy, no-code technical documentation solution users will love 🎉
       primary_action:
         text: Hier Starten
-        url: https://hugoblox.com/templates/details/docs/
+        url: https://duynis.nl
         icon: rocket-launch
       secondary_action:
         text: Read the docs
@@ -23,7 +23,7 @@ sections:
         text: "Announcing the release of version 2."
         link:
           text: "Read more"
-          url: "/blog/"
+          url: https://lduynisveld.github.io/lduynis.github.io/docs/
     design:
       spacing:
         padding: [0, 0, 0, 0]
