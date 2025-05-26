@@ -1,13 +1,12 @@
 ---
-linkTitle: Documentation
-title: Introduction
----
+linkTitle: Documatatie
+title: Intro---
 
-👋 Welcome to the demo of the Hugo Blox Documentation template!
+👋 Welkom op mijn demo !
 
 <!--more-->
 
-This site is a demo of the Hugo Blox Documentation theme. For the full documentation on how to use this template, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+deze pagina is een demo [Hugo Blox Documentation](https://duynis.nl/).
 
 ## Next
 
