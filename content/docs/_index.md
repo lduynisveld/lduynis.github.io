@@ -1,6 +1,7 @@
 ---
 linkTitle: Documatatie
-title: Intro---
+title: Intro
+---
 
 👋 Welkom op mijn demo !
 
