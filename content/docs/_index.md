@@ -1,13 +1,13 @@
 ---
-linkTitle: Documatatie
+linkTitle: Documentatie
 title: Intro
 ---
 
-👋 Welkom op mijn demo !
+👋 Welkom op mijn demo website !
 
 <!--more-->
 
-deze pagina is een demo [Hugo Blox Documentation](https://duynis.nl/).
+deze is de link naar mijn andere website [Duynis.nl](https://duynis.nl/).
 
 ## Next
 
