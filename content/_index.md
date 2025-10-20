@@ -10,8 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Welkom op mijn webpagina
-    | ![](assets/20250331_142425_fotomodel1.jpg) | 
+      title: Welkom op mijn webpagina 
       text: dit is mijn demo github pagina wiTH love 🎉
       primary_action:
         text: Hier Starten
