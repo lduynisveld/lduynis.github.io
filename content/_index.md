@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2025-03-31
+date: 2025-10-20
 type: landing
 
 design:
@@ -11,18 +11,18 @@ sections:
   - block: hero
     content:
       title: Welkom op mijn webpagina
-      text: The easy, no-code technical documentation solution users will love 🎉
+      text: dit is mijn demo github pagina wiTH love 🎉
       primary_action:
         text: Hier Starten
         url: https://duynis.nl
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
+        text: mijn documenten lezen
         url: /docs/
       announcement:
         text: "Announcing the release of version 2."
         link:
-          text: "Read more"
+          text: "lees meer"
           url: https://lduynisveld.github.io/lduynis.github.io/docs/
     design:
       spacing:
