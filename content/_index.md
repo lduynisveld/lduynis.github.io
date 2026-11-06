@@ -1,5 +1,5 @@
 ---
-title: 'Leon | Fotografie'
+title: 'Fotografie'
 date: 2025-10-20
 type: landing
 
