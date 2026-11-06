@@ -1,97 +1,44 @@
 ---
-title: 'Home'
+title: 'Leon | Fotografie'
 date: 2025-10-20
 type: landing
 
 design:
-  # Default section spacing
   spacing: "6rem"
 
 sections:
   - block: hero
     content:
-      title: Welkom op mijn webpagina 
-      text: dit is mijn demo github pagina wiTH love 🎉
+      title: Hoi, ik ben Leon
+      text: Ik maak foto's en deel hier mijn werk en projecten.
       primary_action:
-        text: Hier Starten
-        url: https://duynis.nl
-        icon: rocket-launch
+        text: Bekijk mijn foto's
+        url: /foto/
+        icon: camera
       secondary_action:
-        text: mijn documenten lezen
-        url: /docs/
-      announcement:
-        text: "Announcing the release of version 2."
-        link:
-          text: "lees meer"
-          url: https://lduynisveld.github.io/lduynis.github.io/docs/
+        text: Lees mijn blog
+        url: /blog/
     design:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
       css_class: ""
       background:
         color: ""
         image:
-          # Add your image background to `assets/media/`.
           filename: ""
           filters:
             brightness: 0.5
-  - block: stats
-    content:
-      items:
-        - statistic: "1M+"
-          description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
-          description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-800"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
   - block: features
-    id: features
+    id: mijn-website
     content:
-      title: Kenmerken
-      text: Samenwerken, publiceren en technische kennis delen , documentensite, 
+      title: Wat je hier vindt
+      text: Een kijkje in mijn fotografie en de dingen waar ik mee bezig ben.
       items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
-  - block: cta-card
-    content:
-      title: "Start Writing with the #1 Effortless Documentation Platform"
-      text: Hugo Blox Docs Theme brings all your technical knowledge together in a single, centralized knowledge base. Easily search and edit it with the tools you use every day!
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+        - name: Fotografie
+          icon: camera
+          description: Portretten, fotoshoots en andere beelden die ik graag wil delen.
+        - name: Blog
+          icon: pencil-square
+          description: Persoonlijke berichten en updates over mijn projecten.
 ---

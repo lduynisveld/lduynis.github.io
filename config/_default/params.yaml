@@ -11,10 +11,10 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Project
+    site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Hugo Blox website builder.'
+    org_name: 'Leon'
+    description: 'De persoonlijke website van Leon, met fotografie, projecten en updates.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -41,17 +41,17 @@ header:
       filename: "logo.svg"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/details/docs/"
+      text: "Bekijk foto's"
+      url: "/foto/"
     show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {2025} My Company. This work is licensed under {license}'
+    notice: '© {2026} Leon.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
