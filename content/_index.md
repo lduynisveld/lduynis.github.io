@@ -13,7 +13,7 @@ sections:
       text: Ik maak foto's en deel hier mijn werk en projecten.
       primary_action:
         text: Bekijk mijn foto's
-        url: /foto/
+        url: https://lduynisveld.github.io/lduynis.github.io/foto/
         icon: camera
       secondary_action:
         text: Lees mijn blog
